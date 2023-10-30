@@ -24,3 +24,6 @@ Move the app icon onto the device home screen as shown (I was having some issues
 ![Device Home Screen](https://github.com/cftuabbottgithub/appAutomation_Chris_SDET/blob/main/emulator_screenshot.png)
 ### Running the script
 Use the command ```python general_store_test.py``` to run the script.
+
+### Screen recording
+<a href="https://drive.google.com/file/d/1nEpM84pVOH9_1llrdNZ1CcT7dqFR2qnt/view?usp=share_link">Video</a>
