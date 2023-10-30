@@ -28,4 +28,4 @@ Move the app icon onto the device home screen as shown (I was having some issues
 Use the command ```python general_store_test.py``` to run the script from the main project directory.
 
 ### Screen recording
-<a href="https://drive.google.com/file/d/1nEpM84pVOH9_1llrdNZ1CcT7dqFR2qnt/view?usp=share_link">Video</a>
+<a href="https://drive.google.com/file/d/1jikbhBmZ3z2Mb4GHkO1s1q5F7py7noSK/view?usp=sharing">Video</a>
