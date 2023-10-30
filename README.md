@@ -14,7 +14,8 @@ In the terminal, use the command ```appium --allow-insecure chromedriver_autodow
 This allows Appium to automatically download chromedriver when interacting with a WebView.
 
 ### Running the Android emulator and installing the apk file
-After the Android virtual device is created, 
+After the Android virtual device is created, launch the emulator from Android Studio device manager.
+
 To install the apk file onto the device, drag the apk onto the emulator window.
 Move the app icon onto the device home screen as shown (I was having some issues launching the app from Appium directly)
 ![Device Home Screen](https://github.com/cftuabbottgithub/appAutomation_Chris_SDET/blob/main/emulator_screenshot.png)
