@@ -14,6 +14,8 @@ Use the command ```pip install HTMLTestRunner-rv``` to install HTMLTestRunner wh
 In the terminal, use the command ```appium --allow-insecure chromedriver_autodownload```.
 This allows Appium to automatically download chromedriver when interacting with a WebView.
 
+The server should be running at the default port (4723).
+
 ### Running the Android emulator and installing the apk file
 After the Android virtual device is created, launch the emulator from Android Studio device manager.
 
