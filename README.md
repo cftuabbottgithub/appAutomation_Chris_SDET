@@ -17,6 +17,6 @@ This allows Appium to automatically download chromedriver when interacting with 
 After the Android virtual device is created, 
 To install the apk file onto the device, drag the apk onto the emulator window.
 Move the app icon onto the device home screen as shown (I was having some issues launching the app from Appium directly)
-
+![Device Home Screen](https://github.com/cftuabbottgithub/appAutomation_Chris_SDET/blob/main/emulator_screenshot.png)
 ### Running the script
 Use the command ```python general_store_test.py``` to run the script.
