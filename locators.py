@@ -52,7 +52,7 @@ class ProductPageLocators(object):
 
 class CartPageLocators(object):
     # title bar
-    TITLE_BAR = (AppiumBy.ID, "com.androidsample.generalstore:id/toolbar_title")
+    TITLE_BAR = (AppiumBy.XPATH, "//android.widget.TextView[@text='Cart']")
 
     # total purchase amount
     PURCHASE_AMOUNT = (AppiumBy.XPATH,
